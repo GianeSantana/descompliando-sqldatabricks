@@ -1,1 +1,0 @@
-# descompliando-sqldatabricks
